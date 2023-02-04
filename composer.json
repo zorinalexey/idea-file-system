@@ -1,0 +1,21 @@
+{
+    "name": "idea/file-system",
+    "description": "Библиотека для работы с файловой системой",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Idea\\FileSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Алексей Зорин",
+            "email": "zorinalexey59292@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php":">=7.4"
+    }
+}
