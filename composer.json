@@ -1,11 +1,11 @@
 {
-    "name": "idea/file-system",
+    "name": "zara/file-system",
     "description": "Библиотека для работы с файловой системой",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Idea\\FileSystem\\": "src/"
+            "Zara\\FileSystem\\": "src/"
         }
     },
     "authors": [
